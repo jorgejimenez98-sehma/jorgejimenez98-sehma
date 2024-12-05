@@ -4,22 +4,6 @@ I'm a passionate **Software Engineer** and **Full Stack Developer** specializing
 
 - 👨‍💼 Portfolio: You can find some of my experience description by clicking [here](https://jorgejimenez.dev).
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgejimenez98-sehma&layout=compact&theme=radical&langs_count=8)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgejimenez98-sehma&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jorgejimenez98-sehma&theme=radical)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jorgejimenez98-sehma&theme=radical)
-
-</div>
-
 
 ---
 
