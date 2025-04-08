@@ -3,7 +3,7 @@
 I'm a passionate **Software Engineer** and **Full Stack Developer** specializing in **MERN**, **MEAN**, and **MEVN** technology stacks, as well as **Python + Django**, **Android (Java)**, **Next.js**, and **Nuxt.js**. I thrive on solving challenging problems and crafting innovative solutions. My aim is to continuously learn and grow within the technology industry.
 
 - 👨‍💼 Portfolio: You can find some of my experience description by clicking [here](https://jorgejimenez.dev).
-
+      
         
 ---
   
